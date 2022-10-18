@@ -1,2 +1,2 @@
 # nau2
-programa de locos
+juego de naves de venus
